@@ -1,0 +1,26 @@
+.bg-nav {background-color: #353A40;}
+.nav-item {font-size: 14.7px;}
+.navgreen {color: green !important;}
+.navwhite {color: white !important;}
+
+.carousel-item {filter: brightness(50%);}
+.caption {position: relative; padding-top: 400px; padding-right: 120px;font-size: 14.5px;}
+.btn-green {background-color:#2BA647 !important;}
+
+.card-text {font-size: 10px; line-height: 1.75;}
+
+.coltext{background-color: #353A40;font-size: small; margin-right: 11px;}
+.btn-sm {font-size: 12px !important;}
+
+.conocea {font-size: x-small; margin-bottom: 0px; margin-top: 8px !important;}
+.oradores {font-size: 25px; font-weight:500 !important;}
+.dotted {text-decoration: underline dotted;}
+.anotate {font-size: 13px; margin-bottom: 5px !important;}
+.form-control {font-size: 12px !important;}
+.textlabel {font-size: 10px !important;}
+.enviar {background-color:yellowgreen !important; width: 100%;}
+
+.bg-blue {background: linear-gradient(to right, #1D3745 0%, #1D5271 100%);}
+.footer {list-style-type: none; font-size: small;}
+
+
